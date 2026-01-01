@@ -115,7 +115,7 @@ Focused on accessibility, modular design, and real-world usability for families 
 **🔧 Technologies Used:**  
 React.js · Node.js · Python · MongoDB · Flask · Chart.js  
 
-![Autism System Screenshot](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/autism-system-demo.png)
+![Autism System
 **🔧 Technologies Used:**  
 React.js · Node.js · Python · MongoDB · Flask · Chart.js
 ---
