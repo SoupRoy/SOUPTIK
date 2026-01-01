@@ -98,8 +98,8 @@ Sep 2023 – Jun 2027
 ---
 
 ![Class XII](https://img.shields.io/badge/Class%20XII-82.2%25-FF6C37?style=for-the-badge&logo=googleclassroom&logoColor=white)  
-**Sudhir Memorial Institute, Kolkata**  
-ISC Board | 2023
+**Sudhir Memorial Institute, Doltala**  
+CBSE Board | 2022
 
 ## 🚀 Projects (Coming Soon)
 - 🧩 Autism Child Support System  
