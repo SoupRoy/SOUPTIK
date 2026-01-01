@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Souptik  
+# 👋 Hi, I'm Souptik Roy 
 Aspiring Full Stack Developer | AI/ML Enthusiast | Service-Company Project Builder  
 
 ---
@@ -47,6 +47,4 @@ Proficient in CI/CD pipelines, GitHub Actions, and modern development tools.
 
 ## 🏆 Achievements
 - Finalist — Tata Elxsi Autism Project  
-- Solved 400+ DSA problems on LeetCode  
-- Hackathon participant (4+ national events)  
-- Building a tactical answer bank for MAKAUT
+- Solved 400+ DSA problems on GeeksForGeeks
