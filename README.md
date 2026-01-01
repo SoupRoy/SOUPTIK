@@ -104,14 +104,16 @@ ICSE Board | 2020
 **Sudhir Memorial Institute, Doltala**  
 CBSE Board | 2022
 
-## 🚀 Projects (Coming Soon)
-- 🧩 Autism Child Support System  
-- 📅 Appointment Scheduling System  
-- 🎟️ Customer Support Ticketing Tool  
-- 💵 Billing & Invoice Generator  
-- 🔍 AI-Powered Job Authenticity Checker  
-- 🧠 Risk Detection & Segmentation Platform  
+### 🧩 SOCIAL IMPACT / HEALTH TECH  
+![Autism Support System](https://img.shields.io/badge/Autism%20Support%20System-Tata%20Elxsi%20Project-6A1B9A?style=for-the-badge&logo=tata&logoColor=white)
 
+**Autism Child Support System – Tata Elxsi (In Progress)**  
+A scalable support platform designed to assist children with autism and their caregivers.  
+Includes appointment scheduling, progress tracking, therapy dashboards, and caregiver communication tools.  
+Focused on accessibility, modular design, and real-world usability for families and therapists.
+
+**🔧 Technologies Used:**  
+React.js · Node.js · Python · MongoDB · Flask · Chart.js
 ---
 
 ## 🏆 Achievements
