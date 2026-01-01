@@ -125,10 +125,7 @@ React.js · Node.js · Python · MongoDB · Flask · Chart.js
 - Solved 400+ DSA problems on GeeksForGeeks
 
 
-import React from 'react';
 
-const ContactMe = () => {
-  return (
     <section className="contact-me bg-black text-white p-6 rounded-lg border border-purple-500 mt-4">
       <h2 className="text-2xl font-bold text-white mb-2">Contact Me</h2>
       <p className="text-purple-400 mb-4 text-sm leading-relaxed">
