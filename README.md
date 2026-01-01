@@ -24,14 +24,6 @@ Proficient in CI/CD pipelines, GitHub Actions, and modern development tools.
 Built real-world tools like Appointment Scheduler, Ticketing Tool, Billing System, and Autism Child Support System.  
 Focused on solving practical problems with scalable, user-friendly solutions.
 
-**AI & Machine Learning**  
-Specialized in fraud detection, risk analysis, product recommendation systems, and chatbots.  
-Hands-on with ML pipelines, data analytics, and deploying production-ready AI models.  
-
-**Cloud & DevOps**  
-Skilled in deployment with Microsoft Azure, Google Cloud, Vercel, and Heroku.  
-Proficient in CI/CD pipelines, GitHub Actions, and modern development tools.  
-
 ---
 
 ## 🛠 Tech Stack
