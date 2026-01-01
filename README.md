@@ -4,17 +4,18 @@ Aspiring Full Stack Developer | AI/ML Enthusiast | Service-Company Project Build
 ---
 
 ## 💡 Expertise
-**Full Stack Web Development**  
+
+![Full Stack Web Development](https://img.shields.io/badge/Full%20Stack%20Web%20Development-20232A?style=for-the-badge&logo=visualstudio&logoColor=white)  
 Experienced in building responsive web applications using React.js, Node.js, Next.js, Flask, and FastAPI.  
-Proficient in frontend + backend technologies, delivering scalable and secure solutions.  
+Proficient in frontend + backend technologies, delivering scalable and secure solutions.
 
-## 💡 Expertise
+![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML%20Enthusiast-009688?style=for-the-badge&logo=python&logoColor=white)  
+Specialized in fraud detection, risk analysis, product recommendation systems, and chatbots.  
+Hands-on with ML pipelines, data analytics, and deploying production-ready AI models.
 
-![Full Stack Web Development](https://img.shields.io/badge/Full%20Stack%20Web%20Development-20232A?style=for-the-badge&logo=visualstudio&logoColor=white)
-![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML%20Enthusiast-009688?style=for-the-badge&logo=python&logoColor=white)
-![Service-Company Project Builder](https://img.shields.io/badge/Service--Company%20Project%20Builder-6A1B9A?style=for-the-badge&logo=github&logoColor=white)
-![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML%20Enthusiast-009688?style=for-the-badge&logo=python&logoColor=white)
-![Service-Company Project Builder](https://img.shields.io/badge/Service--Company%20Project%20Builder-6A1B9A?style=for-the-badge&logo=github&logoColor=white)
+![Service-Company Project Builder](https://img.shields.io/badge/Service--Company%20Project%20Builder-6A1B9A?style=for-the-badge&logo=github&logoColor=white)  
+Built real-world tools like Appointment Scheduler, Ticketing Tool, Billing System, and Autism Child Support System.  
+Focused on solving practical problems with scalable, user-friendly solutions.
 
 **AI & Machine Learning**  
 Specialized in fraud detection, risk analysis, product recommendation systems, and chatbots.  
