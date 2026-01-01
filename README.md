@@ -96,6 +96,9 @@ CGPA: ~7.5 | Focused on AI/ML, Full Stack Development, and Software Engineering
 Sep 2023 – Jun 2027
 
 ---
+![Class X](https://img.shields.io/badge/Class%20X-96.2%25-4CAF50?style=for-the-badge&logo=googleclassroom&logoColor=white)  
+**Julian Day School, Ganganagar**  
+ICSE Board | 2020
 
 ![Class XII](https://img.shields.io/badge/Class%20XII-82.2%25-FF6C37?style=for-the-badge&logo=googleclassroom&logoColor=white)  
 **Sudhir Memorial Institute, Doltala**  
