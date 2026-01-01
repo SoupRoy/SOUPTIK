@@ -26,6 +26,14 @@ Proficient in CI/CD pipelines, GitHub Actions, and modern development tools.
 - **Cloud & DevOps:** Git, GitHub, Azure, GCP, Vercel, Heroku  
 - **Tools:** VS Code, IntelliJ, PyCharm  
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
 ---
 
 ## 🎓 Career & Education
