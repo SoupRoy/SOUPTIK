@@ -118,6 +118,25 @@ React.js · Node.js · Python · MongoDB · Flask · Chart.js
 ![Autism System]
 **🔧 Technologies Used:**  
 React.js · Node.js · Python · MongoDB · Flask · Chart.js
+
+import autismImg1 from '../assets/images/autism-dashboard1.png';  // Adjust path
+import autismImg2 from '../assets/images/autism-therapy-chart.png';
+
+return (
+  <div className="project-section">
+    {/* Existing: Title, green icon, description, tech */}
+    <h1>Autism Child Support System – Tata Elxsi (In Progress)</h1>
+    <p>A scalable support platform...</p>
+    
+    {/* Insert images here */}
+    <div className="project-images grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+      <img src={autismImg1} alt="Autism dashboard screenshot" className="w-full rounded shadow-lg" />
+      <img src={autismImg2} alt="Therapy progress chart" className="w-full rounded shadow-lg" />
+    </div>
+    
+    {/* Technologies, Achievements, ContactMe */}
+  </div>
+);
 ---
 
 ## 🏆 Achievements
