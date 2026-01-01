@@ -1,3 +1,17 @@
+
+return (
+  <div className="profile-section">
+    <h1>Hi, I'm Souptik Roy</h1>
+    <img 
+      src={profileImg} 
+      alt="Souptik Roy - Full Stack Developer" 
+      className="w-32 h-32 md:w-48 md:h-48 rounded-full mx-auto md:mx-0 shadow-lg mb-4 object-cover" 
+    />
+    <p>Full Stack Developer | AI/ML Enthusiast...</p>
+    {/* Expertise, etc. */}
+  </div>
+);
+
 # 👋 Hi, I'm Souptik Roy 
 Aspiring Full Stack Developer | AI/ML Enthusiast | Service-Company Project Builder  
 
