@@ -84,13 +84,22 @@ Focused on solving practical problems with scalable, user-friendly solutions.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-## 🎓 Career & Education
-- 🧩 Autism Child Support System — Tata Elxsi (In Progress)  
-- 🎓 B.Tech in Computer Science — MAKAUT  
-- 📊 Service-company projects: Appointment Scheduler, Ticketing Tool, Billing System  
+![Tata Elxsi Participant](https://img.shields.io/badge/Tata%20Elxsi-Project%20Participant-6A1B9A?style=for-the-badge&logo=tata&logoColor=white)  
+🧩 Autism Child Support System — Tata Elxsi (In Progress)  
+Building a scalable support system for children with autism, focused on accessibility, scheduling, and caregiver tools.
 
 ---
+
+![B.Tech](https://img.shields.io/badge/B.Tech-CSE-0078D4?style=for-the-badge&logo=microsoftacademic&logoColor=white)  
+**B.P. Poddar Institute of Management and Technology, Kolkata**  
+CGPA: ~7.5 | Focused on AI/ML, Full Stack Development, and Software Engineering  
+Sep 2023 – Jun 2027
+
+---
+
+![Class XII](https://img.shields.io/badge/Class%20XII-82.2%25-FF6C37?style=for-the-badge&logo=googleclassroom&logoColor=white)  
+**Sudhir Memorial Institute, Kolkata**  
+ISC Board | 2023
 
 ## 🚀 Projects (Coming Soon)
 - 🧩 Autism Child Support System  
