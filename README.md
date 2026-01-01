@@ -59,6 +59,15 @@ Focused on solving practical problems with scalable, user-friendly solutions.
 
 ---
 
+## 🧰 Libraries & Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 ## 🎓 Career & Education
 - 🧩 Autism Child Support System — Tata Elxsi (In Progress)  
 - 🎓 B.Tech in Computer Science — MAKAUT  
