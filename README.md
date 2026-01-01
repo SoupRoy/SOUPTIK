@@ -123,3 +123,32 @@ React.js · Node.js · Python · MongoDB · Flask · Chart.js
 ## 🏆 Achievements
 - Finalist — Tata Elxsi Autism Project  
 - Solved 400+ DSA problems on GeeksForGeeks
+import React from 'react';
+
+const ContactMe = () => {
+  return (
+    <section className="contact-me bg-black text-white p-6 rounded-lg border border-purple-500 mt-4">
+      <h2 className="text-2xl font-bold text-white mb-2">Contact Me</h2>
+      <p className="text-purple-400 mb-4 text-sm leading-relaxed">
+        Got a project waiting to be realized? Let's collaborate and make it happen!
+      </p>
+      <div className="flex flex-col md:flex-row gap-4 mb-4">
+        <div className="flex items-center gap-2 text-purple-400">
+          <span className="text-lg">✉️</span>
+          <a href="mailto:duttamegh41@gmail.com" className="hover:underline">duttamegh41@gmail.com</a>
+        </div>
+        <div className="flex items-center gap-2 text-purple-400">
+          <span className="text-lg">📞</span>
+          +91-8103565758
+        </div>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-4 border-2 border-dashed border-purple-500 bg-gray-900 min-h-32 rounded">
+        {/* Empty boxes for visual appeal; add icons or placeholders if desired */}
+        <div className="flex items-center justify-center text-purple-400 text-sm">Project Ideas?</div>
+        <div className="flex items-center justify-center text-purple-400 text-sm">Let's Chat!</div>
+      </div>
+    </section>
+  );
+};
+
+export default ContactMe;
